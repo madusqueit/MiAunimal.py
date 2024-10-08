@@ -1,0 +1,9 @@
+print("Faça o seu agendamento aqui abaixo:")
+horário1=(input("Qual seria o melhor horário?"))
+nome1=input("Qual o nome de seu MiAumigo?")
+
+print("\n")
+
+print("cliente1", sep='/')
+print(nome1, sep='/')
+print(horário1, sep='/')
