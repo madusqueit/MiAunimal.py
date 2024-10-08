@@ -1,0 +1,8 @@
+print("Faça o seu cadAUstro abaixo:")
+raca1=input("Insira a raça de seu MiAumigo:")
+nome1=input("Insira o nome de seu Pet:")
+nomedono1=input("E qual o nome do dono?")
+
+print("\n")
+
+print("cadastro1:", raca1,nome1,nomedono1)
